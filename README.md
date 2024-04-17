@@ -26,9 +26,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=green&labelColor=0D1117)&nbsp; 
+
 
 
 ### Tools:
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&labelColor=0D1117)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=4C4295&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -43,10 +46,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
 
 ### Studying in this moment:
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=green&labelColor=0D1117)&nbsp; 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
