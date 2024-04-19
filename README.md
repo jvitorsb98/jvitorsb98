@@ -1,9 +1,8 @@
 
 ## Oi! Eu sou o João Vitor 👋
 
-- 🔭 Atualmente, sou residente em Desenvolvimento de Software na empresa CEPEDI
-- 📫 Sou bacharel em Engenharia Elétrica pela Universidade Estadual de Santa Cruz
-- 😄 Meus pronomes: ele/dele
+- 📫 I hold a Bachelor's degree in Electrical Engineering from the State University of Santa Cruz
+- 🔭 Currently, I'm a Software Development resident at CEPEDI
 
 <div align="center">
 <a href="https://github.com/jvitorsb98">
