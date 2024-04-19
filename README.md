@@ -11,6 +11,13 @@
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jvitorsb98&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+📅 **Joined Wakatime on Mar 4 2024**
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jvitorsb98&api_key=waka_2996c62a-1fab-4168-9647-1ac85a8f2e20)](https://github.com/jvitorsb98/github-readme-stats)
+
+###
+  
 </div>
 
 
