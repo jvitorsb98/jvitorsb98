@@ -14,7 +14,7 @@
 
 📅 **Joined Wakatime on Mar 4 2024**
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jvitorsb98&api_key=waka_2996c62a-1fab-4168-9647-1ac85a8f2e20)](https://github.com/jvitorsb98/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jvitorsb98&api_key=waka_2996c62a-1fab-4168-9647-1ac85a8f2e20&theme=dark)](https://github.com/jvitorsb98/github-readme-stats)
 
 ###
   
