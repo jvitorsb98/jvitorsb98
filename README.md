@@ -1,7 +1,7 @@
 
 ## Hi! I'm João Vitor 👋
 
-I hold a Bachelor's degree in Electrical Engineering from the State University of Santa Cruz and have recently completed my residency in Software Development at CEPEDI. During this experience, I developed practical and theoretical skills in various technologies, with a particular focus on Java and Spring Boot, which are my true passions. As an enthusiast of these technologies, I am always seeking new challenges and opportunities to apply my knowledge and contribute to the development of innovative solutions.
+I hold a Bachelor's degree in Electrical Engineering from the State University of Santa Cruz and have recently completed my residency in Software Development at CEPEDI. During this experience, I developed practical and theoretical skills in various technologies, with a particular focus on Java and Spring Boot, which are my true passions. As an enthusiast of these technologies, I am always seeking new challenges and opportunities to apply my knowledge and contribute to the development of innovative solutions. You can find the activities and projects I worked on during my residency at this link: [GitHub - Residence TIC18](https://github.com/jvitorsb98/residencia18).
 
 <div align="center">
 <a href="https://github.com/jvitorsb98">
