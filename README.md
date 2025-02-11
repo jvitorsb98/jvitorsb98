@@ -4,16 +4,11 @@
 I hold a Bachelor's degree in Electrical Engineering from the State University of Santa Cruz and have recently completed my residency in Software Development at CEPEDI. During this experience, I developed practical and theoretical skills in various technologies, with a particular focus on Java and Spring Boot, which are my true passions. As an enthusiast of these technologies, I am always seeking new challenges and opportunities to apply my knowledge and contribute to the development of innovative solutions. You can find the activities and projects I worked on during my residency at this link: [GitHub - Residence TIC18](https://github.com/jvitorsb98/residencia18).
 
 <div align="center">
-<a href="https://github.com/jvitorsb98">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorsb98&layout=compact&langs_count=7&theme=dracula"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=jvitorsb98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jvitorsb98&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
+
+
 
 📅 **Joined Wakatime on Mar 4 2024**
-
-
 
 <img style="width:60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=jvitorsb98">
 
